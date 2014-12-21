@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-An empty repository...
